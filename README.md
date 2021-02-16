@@ -2,6 +2,16 @@
 
 This is a introduction to web development using Python and webpy.org.
 
+
+***Install web.py
+
+---
+pip3 install web.py
+---
+
+***Sample Code from webpy.org
+
+---
 import web
 
 urls = (
@@ -17,3 +27,5 @@ class hello:
 
 if __name__ == "__main__":
     app.run()
+ 
+ ---
