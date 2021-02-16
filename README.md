@@ -5,15 +5,14 @@ This is a introduction to web development using Python and webpy.org.
 
 ### Install web.py
 
----py
-
+```py
 pip3 install web.py
+```
 
----
 
 ### Sample Code from webpy.org
 
----py
+```py
 import web
 
 urls = (
@@ -28,6 +27,5 @@ class hello:
         return 'Hello, ' + name + '!'
 
 if __name__ == "__main__":
-    app.run()
- 
- ---
+    app.run(
+```
