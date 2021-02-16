@@ -3,15 +3,17 @@
 This is a introduction to web development using Python and webpy.org.
 
 
-***Install web.py
+### Install web.py
 
----
+---py
+
 pip3 install web.py
----
-
-***Sample Code from webpy.org
 
 ---
+
+### Sample Code from webpy.org
+
+---py
 import web
 
 urls = (
