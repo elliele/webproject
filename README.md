@@ -5,9 +5,9 @@ This is a introduction to web development using Python and webpy.org.
 web.py is a web framework for Python that is as simple as it is powerful. web.py is in the public domain, you can use it for whatever purpose with absolutely no restrictions.
 
 
-### Install web.py
+### How to install web.py
 
-```py
+```
 pip3 install web.py
 ```
 
